@@ -15,8 +15,9 @@ Bacharelado em Ciência da Computação (cursando) - Grupo Unis.
 </div>
 
 
-Sempre tive gosto ao desenvolvimento front-end, atualmente estou estudando e aprendendo sobre CSS, HTML, JavaScript e React.
-Possuo conhecimento em C, C# e Java.
+Sempre tive gosto ao desenvolvimento front-end e design.
+Atualmente estou estudando e aprendendo sobre JavaScript, React e C#.
+Possuo conhecimento em CSS | HTML | C | JAVA
 
 <div>
   <h2>📞  Contato</h2>
