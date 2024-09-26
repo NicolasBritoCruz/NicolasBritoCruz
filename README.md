@@ -1,11 +1,11 @@
 <div> 
-  <h2>👋 Olá, eu sou Nicolas Brito Cruz!<h2/>
+  <h2>👋 Olá, eu sou Nicolas Brito Cruz!</h2>
 </div>
     
  Bem-vindo ao meu perfil, atualmente aos 20 anos, busco sempre ampliar meu conhecimento e experiência nessa incrível área da tecnologia.
   
 <div>
-  <h2>🎓  Educação <h2/>
+  <h2>🎓  Educação </h2>
 </div>
 
 Bacharelado em Ciência da Computação (cursando) - Grupo Unis.
