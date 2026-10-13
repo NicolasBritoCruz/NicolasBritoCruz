@@ -24,6 +24,6 @@ Possuo conhecimento em CSS | HTML | C | JAVA
 </div>
 
 
-[LinkedIn](https://www.linkedin.com/in/nicolas-brito-cruz-a19b17291/)
-Email: cruznicolasbrito@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nicolas-brito-cruz-a19b17291/) <br>
+cruznicolasbrito@gmail.com
 
